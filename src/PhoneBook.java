@@ -3,5 +3,6 @@ public class PhoneBook {
 
         // contact 1
         // contact 2
+        // contact 3
     }
 }
